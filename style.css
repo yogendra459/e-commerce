@@ -1,0 +1,1085 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+.bag-icon{
+    height: 30px;
+    width: 30px;
+}
+
+.navbar{
+    display: flex;
+position:sticky;
+top: 0px;
+  justify-content: space-between;
+    background-color: rgba(128, 128, 128, 0.719);
+    
+}
+.logo:hover{
+    transform: scale(1.1);
+}
+.bag-icon:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+.sub-hero{
+    margin-top: 7px;
+}
+
+.sub-hero a{
+    margin-right: 20px;
+    font-size: large;
+    text-decoration: none;
+    color: black;
+
+}
+
+.hero{
+    display: flex;
+    margin-top: 7px;
+}
+
+
+.banner{
+    background-color: rgba(128, 128, 128, 0.194);
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner-text-1{
+    color: white;
+    font-size: 40px;
+}
+
+
+.banner-text-2{
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+}
+
+.banner-text-3{
+    color: rgb(12, 182, 26);
+    font-size: 60px;
+}
+.banner-text-4{
+   
+    font-size: large;
+    margin-top: 14px;
+}
+
+.banner-btn{
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: yellow;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.banner-text{
+    margin-left: 90px;
+    margin-top: 170px;
+}
+
+
+.banner-img{
+    height: 500px;
+    width: 700px;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+.features{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.box1{
+    border: 2px solid black;
+    height: 210px;
+    width: 120px;
+}
+
+
+.features-img1{
+    height: 170px;
+    width: 110px;
+}
+.features-button1{
+    margin-left: 15px;
+    background-color: pink;
+    border-radius: 8px;
+    height: 25px;
+    width: 90px;
+}
+.box2{
+    border: 2px solid black;
+    height: 210px;
+    width: 120px;
+}
+.features-img2{
+    height: 170px;
+    width: 110px;
+}
+.features-button2{
+    margin-left: 15px;
+    background-color: skyblue;
+    border-radius: 8px;
+    height: 25px;
+    width: 90px;
+}
+.box3{
+    border: 2px solid black;
+    height: 210px;
+    width: 120px;
+}
+.features-img3{
+    height: 170px;
+    width: 110px;
+}
+.features-button3{
+    margin-left: 15px;
+    background-color:rgba(0, 128, 0, 0.361);
+    border-radius: 8px;
+    height: 25px;
+    width: 90px;
+}
+.box4{
+    border: 2px solid black;
+    height: 210px;
+    width: 120px;
+}
+.features-img4{
+    height: 170px;
+    width: 110px;
+}
+.features-button4{
+    margin-left: 15px;
+    background-color: rgb(47, 182, 236);
+    border-radius: 8px;
+    height: 25px;
+    width: 90px;
+}
+.box5{
+    border: 2px solid black;
+    height: 210px;
+    width: 120px;
+}
+.features-img5{
+    height: 170px;
+    width: 110px;
+}
+.features-button5{
+    margin-left: 15px;
+    background-color: rgb(234, 234, 186);
+    border-radius: 8px;
+    height: 25px;
+    width: 90px;
+}
+.box6{
+    border: 2px solid black;
+    height: 210px;
+    width: 120px;
+}
+.features-img6{
+    height: 170px;
+    width: 110px;
+}
+.features-button6{
+    margin-left: 15px;
+    background-color: rgb(47, 182, 236);
+    border-radius: 8px;
+    height: 25px;
+    width: 90px;
+}
+.featured-Products{
+    display: flex;
+justify-content: center;
+font-size: 20px;
+margin-top: 20px;
+}
+.Summer-collection-new-morden-desine{
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+    margin-top: 3px;
+}
+.addidasx1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.addidas1{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+   background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+
+.addidas1 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas1 p{
+    margin-left: 10px;
+    
+}
+.addidas1 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas1 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+
+.addidas2{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas2 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas2 p{
+    margin-left: 10px;
+    
+}
+.addidas2 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas2 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+.addidas3{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas3 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas3 p{
+    margin-left: 10px;
+    
+}
+.addidas3 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas3 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: 16px;
+}
+.addidas4{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas4 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas4 p{
+    margin-left: 10px;
+    
+}
+.addidas4 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas4 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+.addidasx2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.addidas5{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas5 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas5 p{
+    margin-left: 10px;
+    
+}
+.addidas5 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas5 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: 16px;
+}
+.addidas6{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas6 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas6 p{
+    margin-left: 10px;
+    
+}
+.addidas6 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas6 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+.addidas7{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas7 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas7 p{
+    margin-left: 10px;
+    
+}
+.addidas7 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas7 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+.addidas8{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas8 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas8 p{
+    margin-left: 10px;
+    
+}
+.addidas8 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas8 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+.addidasx3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.addidas9{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas9 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas9 p{
+    margin-left: 10px;
+    
+}
+.addidas9 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas9 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+.addidas10{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas10 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas10 p{
+    margin-left: 10px;
+    
+}
+.addidas10 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas10 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+.addidas11{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas11 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas11 p{
+    margin-left: 10px;
+    
+}
+.addidas11 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas11 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+.addidas12{ 
+   
+    border: 1px solid black;
+    height: 277px;
+    width: 192px;
+    border-radius: 10px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(9\).jpeg);
+   background-repeat: no-repeat;
+   background-size: 30px;
+background-position-x: right;
+background-position-y:240px ;
+}
+.addidas12 img{ 
+    height: 190px;
+    width: 180px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.addidas12 p{
+    margin-left: 10px;
+    
+}
+.addidas12 h3{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.addidas12 h4{
+    margin-left: 10px;
+    margin-top: 8px;
+    color: green;
+    font-size: large;
+}
+
+.reapir{
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(12\).jpeg);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    margin-top: 30px;
+}
+.reapir-text-1{
+    color: white;
+    margin-left: 500px;
+    justify-content: center;
+    margin-top: 30px;
+}
+.reapir-text-2{
+    color: white;
+    margin-left: 250px;
+margin-top: 40px;
+font-size: 50px;
+}
+.reapir-button{
+    margin-left: 580px;
+    margin-top: 40px;
+    height: 25px;
+    width: 50px;
+    border-radius: 0px;
+}
+.new-arrivlas{
+    margin-left: 510px;
+    font-size: 23px;
+}
+.div-1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+.div-a-1{
+    height: 250px;
+    width: 530px;
+    border: 1px rgb(236, 236, 76);
+    background-color: rgb(236, 236, 76);
+    background-image: url(img/aside-icon.png);
+    background-repeat: no-repeat;
+background-size: 600px;
+}
+.div-a-1 h1{
+    color: white;
+    font-size: 25px;
+    padding-left: 17px;
+    padding-top: 40px;
+}
+.div-a-1 h2{
+    color: white;
+    font-size: 35px;
+    padding-left: 17px;
+    padding-top: 5px;
+}
+.div-a-1 h3{
+    color: white;
+    font-size: 17px;
+    padding-left: 17px;
+    padding-top: 5px;
+}
+.div-a-1 button{
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: rgb(99, 182, 99);
+    height: 25px;
+    width: 90px;
+
+}
+.div-a-2{
+    height: 250px;
+    width: 530px;
+    border: 0px solid black;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div-a-2 h1{
+    color: white;
+    font-size: 25px;
+    padding-left: 17px;
+    padding-top: 40px;
+}
+.div-a-2 h2{
+    color: white;
+    font-size: 35px;
+    padding-left: 17px;
+    padding-top: 15px;
+}
+.div-a-2 h3{
+    color: white;
+    font-size: 17px;
+    padding-left: 17px;
+    padding-top: 15px;
+}
+.div-a-2 button{
+    margin-left: 17px;
+    margin-top: 20px;
+    background-color: white;
+    height: 25px;
+    width: 90px;
+    border:2px solid black;
+
+}
+.div-2{
+display: flex;
+margin-top: 30px;
+justify-content: space-evenly;
+}
+.div-b-1{
+    border: 1px solid black;
+    height: 200px;
+    width: 320px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(2\).jpeg);
+    background-size: cover;
+}
+.div-b-1 H1{
+    color: white;
+    font-size: 30px;
+    padding-left: 25PX;
+    padding-top: 40PX;
+}
+.div-b-1 H2{
+    color: RED;
+    font-size: 15px;
+    padding-left: 25PX;
+    padding-top: 24PX;
+}
+.div-b-2{
+    border: 1px solid black;
+    height: 200px;
+    width: 320px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.08\ AM\ \(1\).jpeg);
+    background-size: cover;
+}
+.div-b-2 H1{
+    color: white;
+    font-size: 30px;
+    padding-left: 25PX;
+    padding-top: 40PX;
+}
+.div-b-2 H2{
+    color: RED;
+    font-size: 15px;
+    padding-left: 25PX;
+    padding-top: 24PX;
+}
+.div-b-3{
+    border: 1px solid black;
+    height: 200px;
+    width: 320px;
+    background-image: url(img/WhatsApp\ Image\ 2024-07-02\ at\ 8.47.07\ AM.jpeg);
+    background-size: cover;
+}
+.div-b-3 H1{
+    color: white;
+    font-size: 30px;
+    padding-left: 25PX;
+    padding-top: 40PX;
+}
+.div-b-3 H2{
+    color: RED;
+    font-size: 15px;
+    padding-left: 25PX;
+    padding-top: 24PX;
+}
+.div-3{
+    display: flex;
+    background-color:rgb(133, 133, 204);
+    margin-top: 40px;
+    height: 130px;
+}
+.div-c-1 h1{
+    color: white;
+    margin-left: 170px;
+    margin-top: 30px;
+
+}
+.div-c-1 h2{
+    color: black;
+    margin-left: 170px;
+    margin-top: 10px;
+    font-size: 15px;
+
+}
+.div-c-1 h2 b{
+    color: yellow;
+}
+.div-c-2{
+    margin-left: 270px;
+    margin-top: 50px;
+    border: 1px solid black;
+    height: 30px;
+    width: 350px;
+    background-color: green;
+}
+.div-c-2 input{
+    height: 26px;
+    width: 260px;
+}
+.div-c-2 label{
+    font-size: 18px;
+}
+.main-futar{
+    display: flex;
+    margin-top: 30px;
+}
+.futar-1{
+    height: 300px;
+    width: 650px;
+}
+.futar-1 img{
+    height: 200px;
+    width: 200px;
+}
+.futar-2{
+    height: 300px;
+    width: 650px;
+}
+.futar-2 h1{
+    font-size: 20px;
+}
+.futar-2 h2{
+    font-size: 13px;
+    margin-top: 8px;
+}
+.futar-2 h3{
+    font-size: 13px;
+    margin-top: 8px;
+
+}
+.futar-2 h4{
+    font-size: 13px;
+    margin-top: 8px;
+
+}
+.futar-2 h5{
+    font-size: 13px;
+    margin-top: 8px;
+
+}
+.futar-2 h6{
+    font-size: 13px;
+    margin-top: 8px;
+
+}
+.futar-3{
+    height: 300px;
+    width: 650px;
+}
+.futar-3 h1{
+    font-size: 20px;
+}
+.futar-3 h2{
+    font-size: 13px;
+    margin-top: 8px;
+}
+.futar-3 h3{
+    font-size: 13px;
+    margin-top: 8px;
+
+}
+.futar-3 h4{
+    font-size: 13px;
+    margin-top: 8px;
+
+}
+.futar-3 h5{
+    font-size: 13px;
+    margin-top: 8px;
+
+}
+.futar-3 h6{
+    font-size: 13px;
+    margin-top: 8px;
+
+}
+.futar-4{
+    height: 300px;
+    width: 650px;
+}
+.futar-4 h1{
+    font-size: 20px;
+}
+.futar-4 h2{
+    font-size: 13px;
+    margin-top: 8px;
+}
+.futar-4-img-a{
+    display: flex;
+}
+.futar-4-img-a1{
+    width: 130px;
+}
+.futar-4-img-a2{
+    width: 130px;
+}
+.futar-4 h3{
+    font-size: 13px;
+    margin-top: 8px;
+
+}
+.futar-4-img{
+    display: flex;
+    margin-top: 20px;
+}
+.futar-4-img-1{
+    height: 50px;
+}
+.futar-4-img-2{
+    height: 50px;
+}
+.futar-4-img-3{
+    height: 50px;
+    border: 2px solid black;
+    background-color: black;
+}
+.futar-4-img-4{
+    height: 60px;
+}
+
+.sub-hero :hover{
+    color: white;
+    font-size: larger;
+}
+.banner-btn:hover{
+    color: white;
+    background-color:blue;
+    border: 3px solid black;
+
+}
+.box1:hover{
+    scale: 1.1;
+}
+.features-button1:hover{
+    color: white;
+    background-color:rgb(239, 100, 124);
+    border: 3px solid black;
+
+}
+
+.box2:hover{
+    scale: 1.1;
+}
+.features-button2:hover{
+    color: white;
+    background-color:blue;
+    border: 3px solid black;
+
+}
+.box3:hover{
+    scale: 1.1;
+}
+.features-button3:hover{
+    color: white;
+    background-color:green;
+    border: 3px solid black;
+
+}
+.box4:hover{
+    scale: 1.1;
+}
+.features-button4:hover{
+    color: white;
+    background-color:blue;
+    border: 3px solid black;
+
+}
+.box5:hover{
+    scale: 1.1;
+}
+.features-button5:hover{
+    color: black;
+    background-color:yellow;
+    border: 3px solid black;
+
+}
+.box6:hover{
+    scale: 1.1;
+}
+.features-button6:hover{
+    color: white;
+    background-color:blue;
+    border: 3px solid black;
+
+}
+.addidas1:hover{
+    scale: 1.1;
+}
+.addidas2:hover{
+    scale: 1.1;
+}
+.addidas3:hover{
+    scale: 1.1;
+}
+.addidas4:hover{
+    scale: 1.1;
+}
+.addidas5:hover{
+    scale: 1.1;
+}
+.addidas6:hover{
+    scale: 1.1;
+}
+.addidas7:hover{
+    scale: 1.1;
+}
+.addidas8:hover{
+    scale: 1.1;
+}
+.addidas9:hover{
+    scale: 1.1;
+}
+.addidas10:hover{
+    scale: 1.1;
+}
+.addidas11:hover{
+    scale: 1.1;
+}
+.addidas12:hover{
+    scale: 1.1;
+}
+.reapir-button:hover{
+    color: white;
+    background-color: black;
+    scale: 1.3;
+}
+.featured-Products:hover{
+    scale: 1.1;
+}
+.Summer-collection-new-morden-desine:hover{
+    scale: 1.1;
+}
+.new-arrivlas:hover{
+    scale: 1.01;
+}
+.div-a-1:hover{
+    scale: 1.05;
+}
+.div-a-1 button:hover{
+    scale: 1.1;
+    border: 3px solid black;
+    background-color: green;
+}
+
+.div-a-2:hover{
+    scale: 1.05;
+    
+
+}
+.div-a-2 button:hover{
+    scale:1.1;
+    border: 3px solid black;
+}
+.div-b-1:hover{
+    scale: 1.05;
+}
+.div-b-2:hover{
+    scale: 1.05;
+}
+.div-b-3:hover{
+    scale: 1.05;
+}
+.div-c-2:hover{
+    scale: 1.05;
+}
